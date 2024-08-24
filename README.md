@@ -1,4 +1,4 @@
-# SpaceX-MD
+# HEXOR-MD
 
-#### SpaceX New Whatsapp Multidevice Bot...
+#### HEXOR-MD New Whatsapp Multidevice Bot...
 #### Release soon 🔮✨.
