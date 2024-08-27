@@ -1,4 +1,4 @@
-# HEXOR-MD
+# HEXTER-MD
 
-#### HEXOR-MD New Whatsapp Multidevice Bot...
+#### HEXTER-MD New Whatsapp Multidevice Bot...
 #### Release soon 🔮✨.
